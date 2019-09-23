@@ -4,16 +4,28 @@ Players:
 Ryan, Teamster, Pilot and Jack of Many Trades
 'Doc' Krober, probably not a real doctor?, Scientist, Curiosity Fulfiller
 Willow, Former Marine, current computer / hacker specialist
-Ed, Mercenary-stat'd Android, (Combat: 30 (?), Instinct: 40, Loyalty: 45, Revolver, Flight Suit)
+Ed, Mercenary-stat'd Android, (Combat: 38, Instinct: 45, Loyalty: 50, Revolver, 3 reload cylinders Flight Suit)
 
 So the niece/nephew/brother-in-law/android merc squad dock just outside Prospero's Dream, because their 93 Hull mining vessel will not fit in the dry dock. They lose some stress from getting back to civilization, and then the Q-Team pointing pulse rifles at them and hosing them down with disinfectant stresses them out again. They head through the dry docks, down a corridor towards the Stellar Burn to buy drinks, look for weapons, and offload their cargo.
 
-My first encounter roll is a deadly one. I roll an 8. I ask them who's in front of the group. Ryan's up front, and fails a Body save. The group (I rule) has blundered into a section of walkway that irises open and they tumble down a chrome-slick peristalting gullet. When they awaken they're on a plateau of broken concrete. In the distance they see what looks dimly like a waterfall, with a few flickering yellow lights. Above them cold blue lights shine constantly like stars. Cracked buildings lean drunkenly and in the distance a vast series of pipes seems to be both still and writhing. (In retrospect I should've had them roll a fear save or panic save but I was so flummoxed by them taking the Hell Slide to the Sink that I was just trying to give them some semi-viable choice of direction). Everything is dim to dark, the air is cold and incredibly thin. They manage to find an old O2 bottle with 6 hours of breathe left to it. Taking stock, they march towards the waterfall. 
+My first encounter roll is a deadly one. I roll an 8. I ask them who's in front of the group. Ryan's up front, and fails a Body save. The group (I rule) has blundered into a section of walkway that irises open and they tumble down a chrome-slick peristalting gullet. When they awaken they're on a plateau of broken concrete. In the distance they see what looks dimly like a waterfall, with a few flickering yellow lights. Above them cold blue lights shine constantly like stars. Cracked buildings lean drunkenly and in the distance a vast series of pipes seems to be both still and writhing. (In retrospect I should've had them roll a fear save or panic save but I was so flummoxed by them taking the Hell Slide to the Sink that I was just trying to give them some semi-viable choice of direction). Everything is dim to dark, the air is cold and incredibly thin. They manage to find an old O2 bottle with 6 hours of breathe left to it. Taking stock, they march towards the waterfall. I roll an encounter and get 8 Hunglungs with spears and incredibly low speed waiting in ambush.
 
 They wind up in a canyon formed of two collossal buildings leaning against one another, an alley between them turned into a small steep ravine. Willow asks if she can see anything with her IR goggles, and I tell her there are dim handprints on one of the empty window-panes.
- |       |
- |_     _|
-   \   /
-    \_/
 
-So at the base of the buildings there's a shelf of concrete about as wide as a sidewalk, then the ravine. 
+ |        |
+ |        |
+ |_      _|
+   \    /
+    \  /
+     \/
+
+
+So at the base of the buildings there's a shelf of concrete about as wide as a sidewalk, then the ravine, which bottoms out in a narrow trail. Willow sees someone looking out at them, just a sliver of face, partially masked by concrete and some kind of blocky monocle. The figure darts away.
+
+Willow's player smartly asks if her bioscanner will help, and whips it out. She notices 8 signatures spread out between the buildings. Willow wants to sneak up to the 'sidewalk' and listen in. I tell her there's enough debris on the ground she needs an auditory distraction, and Ryan obliges by smacking his crowbar against the ground. The sneaking marine touches one of the metal 'vines' growing all over the Sink, and it is warm to the touch, despite not showing up on IR (Sanity save!). 
+
+Willow listens in and the hunglungs seem to think they're clueless tourists. As they spring out to 'ambush' them, Willow has gotten behind the hunglungs and surprises them, snatching a spear from one of them and hurling him down the ravine. From across the way one spear is hurled at her but narrowly misses. Some of the hunglungs charge Ryan and Doc Krober, who are stressed by receiving a charge of spearmen. Even though the hunglungs are quite slow and emiaciated, and fight as though on the verge of total exhaustion. Ryan bashes two of them down. Doc tries to grab one and disarm him but is sent sprawling. Ed fires his revolver twice, hitting and downing one of the hunglungs. 
+
+The rest of them opt to flee. The four manage to salvage 5 spears, 2 hazardous environment suits that are relatively undamaged / patchable, a flare gun (3 flares) and the IR monocle. Doc and Willow have begun to feel feverish as ACMD takes hold. Willow and Ryan don the environment suits and the four keep moving towards the waterfall. Though the env suits have 1-hour O2 bottles in them, and they have a 6-hour bottle of O2, I expect they'll soon be making Body saves to ward off the effects of the thin cold air.
+
+Takeaways - I'm playing around with encumberance rules Sean is playtesting, characters can carry Strength / 10 items, 3 stimpacks/magazines/grenades are 1 slot, there's a wearing slot for armor or otherwise wearable items (flashlights, RAW, and short-range comms at my table). So there was more deliberation at the Dream and when looting the Hunglungs about what to take, which seems very apt to me. Also I was not at all ready for them to go straight to the Sink - there's only a 2% chance of this happening by default. But, uh, be ready for this. Just in case. You can just wing things a bit with random encounters and a dim-and-vague description of the place, but next time I'm going to use some of the landmarks specifically mentioned in that spread.
