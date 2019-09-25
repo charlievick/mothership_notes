@@ -20,3 +20,16 @@ Pulse rifle, empty
 Spare vacc suit, 1d5 hours O2 bottle
 Patch: WAKE ME UP WHEN IT'S QUITTING TIME
 Experimental Combat Drugs
+Grey Box Portable Editor
+Pulse Rifle, fully loaded
+Smart Gun
+IR Goggles
+HUD
+Emergency vacc suit, 'hamster ball'
+Kilo of tetracaine, 25kcr
+Hand mirror
+Bottle of wood oil
+A scrap of paper, '43A53EF', (GEN-A access code)
+Sleeve RFID locator
+Thumbnail-sized CCTV camera, remote receiver
+Pipe bomb, 2d10*100 damage, 1 minute fuse

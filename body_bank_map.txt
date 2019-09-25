@@ -1,20 +1,20 @@
- |        |
- |        |
- |_      _|
-   \    /
-    \  /
-     \/                      .......tun4......
+                    ---- BLOOD BATH IN THE BODY BANK ----
+    
+                                Map and Key
+
+
+                             .......tun4......
                             .                 .
                            .      ...tun3.....[]
                           .      .             .
                          .      .              . 
-                         .   __.___________     . 
-                         .  /   CRYOPODS    \...[]
-                         . /   ___________   \   .
-                          /   / .         \   \   .
-                         |   |   .         |   |   .tun7
-                         |   |   .         |   |    .
-                         |   |   .         |   |     ._____________
+                      ...[]  __.___________     . 
+                      .  .  /   CRYOPODS    \...[]
+                      .  . /   ___________   \   .
+                      .   /   / .         \   \   .
+                      .  |   |   .         |   |   .tun7
+                      .  |   |   .         |   |    .
+                      ...|   |   .         |   |     ._____________
                          |   |   .         |   |.....|    CRYOSTORE|__
                          |   |   .         |   |     |__a__________|  \
                 _________|_a_|___._________|_a_|     |      |      |   \
@@ -36,11 +36,11 @@
                                  |    /                 \    |
                                  | 1 d         3         d 2 |
                                  |  /___d_________________\  |
-                                  \/        /       *      \/
-                   ________________\   4   /  EXEC   *  $  /
-         (to ship) a________________\     a   HELL    *   /
-                                     \   /      5      * /
-                                      \ /               /
+                                  \/        /      *       \/
+                   ________________\   4   /  EXEC  *   $  /
+         (to ship) a________________\     a   HELL   *    /
+                                     \   /     5      *  /
+                                      \ /              */
                                        \               /
                                         \             /
                                          \_____a_____/
@@ -51,7 +51,10 @@ LEGEND
 \|_/ -> Bulkhead
 d -> Doorway, lockable
 a -> airlock-grade door, sealable, lockable
-... -> connective tunnel
+... -> connective tunnel, only shown when in space
 [] -> Tunnel junction
 *** -> energy shielding
 
+SR -> Security Room. 
+
+3) Secure hallway. Turret outside door to (4), sweeping between either end of the hallway. Also 1d10 passive flying killdrones looking for targets.
