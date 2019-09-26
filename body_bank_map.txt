@@ -18,7 +18,7 @@
                          |   |   .         |   |.....|    CRYOSTORE|__
                          |   |   .         |   |     |__a__________|  \
                 _________|_a_|___._________|_a_|     |      |      |   \
-               /    |_\        | SR |          |_____| BARR |  GENA| C&C\
+               /    |_\        | SR |          |_____| BARR | GEN-A| C&C\
               /     |_\        |__d_|    MEDI  a_____a  ACKS|      a    |
              / 0G   |_\  SPA        |      ____|     |      |__a___|    |
              | SPA  d               d     d    |     |             |    /
@@ -34,8 +34,8 @@
                                 \ \                   .     / /
                                  \a\_________________._____/a/
                                  |    /                 \    |
-                                 | 1 d         3         d 2 |
-                                 |  /___d_________________\  |
+                                 | 1 a         3         a 2 |
+                                 |  /___a_________________\  |
                                   \/        /      *       \/
                    ________________\   4   /  EXEC  *   $  /
          (to ship) a________________\     a   HELL   *    /
@@ -57,4 +57,8 @@ a -> airlock-grade door, sealable, lockable
 
 SR -> Security Room. 
 
+Executive suite
+1) Airlock, vacc suit closests around the walls. Rigging gun, 10 bolts (5 sticky, 4 barbed, 1 explosive). 3 vacc suits, 12 O2 bottles. A camera monitors the airlock door from the SPA. The Board can remotely open the door to 3.
+2) Bloody altar, gore-walls. A spacesuit-closet airlock; the spacesuits have been replaced with corpse. They line the walls. Some are naked, 1d5 are clothed and may have items. In the center of the room is a bone altar covered in blood, it is shaped such that one can kneel in it. A bone knife (1d10) is atop it.
 3) Secure hallway. Turret outside door to (4), sweeping between either end of the hallway. Also 1d10 passive flying killdrones looking for targets.
+4) 
