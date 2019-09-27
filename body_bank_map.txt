@@ -11,11 +11,11 @@
                       ...[]  __.___________     . 
                       .  .  /   CRYOPODS    \...[]
                       .  . /   ___________   \   .
-                      .   /   / .         \   \   .
+                      .  ./   / .         \   \   .
                       .  |   |   .         |   |   .tun7
                       .  |   |   .         |   |    .
                       ...|   |   .         |   |     ._____________
-                         |   |   .         |   |.....|    CRYOSTORE|__
+                         |   |  [].........|   |.....|    CRYOSTORE|__
                          |   |   .         |   |     |__a__________|  \
                 _________|_a_|___._________|_a_|     |      |      |   \
                /    |_\        | SR |          |_____| BARR | GEN-A| C&C\
@@ -55,10 +55,10 @@ a -> airlock-grade door, sealable, lockable
 [] -> Tunnel junction
 *** -> energy shielding
 
-SR -> Security Room. 
+SR -> Security Room. 2 combat androids in android charging stations, 
 
 Executive suite
 1) Airlock, vacc suit closests around the walls. Rigging gun, 10 bolts (5 sticky, 4 barbed, 1 explosive). 3 vacc suits, 12 O2 bottles. A camera monitors the airlock door from the SPA. The Board can remotely open the door to 3.
 2) Bloody altar, gore-walls. A spacesuit-closet airlock; the spacesuits have been replaced with corpse. They line the walls. Some are naked, 1d5 are clothed and may have items. In the center of the room is a bone altar covered in blood, it is shaped such that one can kneel in it. A bone knife (1d10) is atop it.
 3) Secure hallway. Turret outside door to (4), sweeping between either end of the hallway. Also 1d10 passive flying killdrones looking for targets.
-4) 
+4) Private bedroom. King-sized bed atop a platform in the middle of the room. 
